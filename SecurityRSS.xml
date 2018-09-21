@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+    <title>Kindle4RSS Feeds</title>
+    </head>
+<body>
+<outline text="Security" title="Security">
+<outline text="腾讯安全玄武实验室" title="腾讯安全玄武实验室" type="rss" xmlUrl="http://xlab.tencent.com/cn/feed/" htmlUrl="http://xlab.tencent.com/cn/feed/" />
+</outline>
+<outline text="android安全中文站" title="android安全中文站">
+<outline text="DroidSec" title="DroidSec" type="rss" xmlUrl="http://www.droidsec.cn/feed/" htmlUrl="http://www.droidsec.cn/feed/" />
+</outline>
+<outline text="corelan" title="corelan">
+<outline text="Corelan Team" title="Corelan Team" type="rss" xmlUrl="https://www.corelan.be/index.php/feed/" htmlUrl="https://www.corelan.be/index.php/feed/" />
+</outline>
+<outline text="ctftime_event" title="ctftime_event">
+<outline text="CTFtime.org: upcoming CTF events" title="CTFtime.org: upcoming CTF events" type="rss" xmlUrl="http://ctftime.org/event/list/upcoming/rss/" htmlUrl="http://ctftime.org/event/list/upcoming/rss/" />
+</outline>
+<outline text="ctftime_wp" title="ctftime_wp">
+<outline text="CTFtime.org: New writeups" title="CTFtime.org: New writeups" type="rss" xmlUrl="http://ctftime.org/writeups/rss/" htmlUrl="http://ctftime.org/writeups/rss/" />
+</outline>
+<outline text="cxsecurity" title="cxsecurity">
+<outline text="The Exploit Database - CXSecurity.com" title="The Exploit Database - CXSecurity.com" type="rss" xmlUrl="http://securityreason.com/rss/ExploitAlert" htmlUrl="http://securityreason.com/rss/ExploitAlert" />
+</outline>
+<outline text="defcon" title="defcon">
+<outline text="DEF CON Announcements!" title="DEF CON Announcements!" type="rss" xmlUrl="http://www.defcon.org/defconrss.xml" htmlUrl="http://www.defcon.org/defconrss.xml" />
+</outline>
+<outline text="diary_reverse_engineer" title="diary_reverse_engineer">
+<outline text="Diary of a reverse-engineer" title="Diary of a reverse-engineer" type="rss" xmlUrl="http://doar-e.github.io/atom.xml" htmlUrl="http://doar-e.github.io/atom.xml" />
+</outline>
+<outline text="droidsec" title="droidsec">
+<outline text="droidsec.org News" title="droidsec.org News" type="rss" xmlUrl="http://droidsec.org/rss.xml" htmlUrl="http://droidsec.org/rss.xml" />
+</outline>
+<outline text="eindbazen" title="eindbazen">
+<outline text="Eindbazen" title="Eindbazen" type="rss" xmlUrl="http://eindbazen.net/feed/" htmlUrl="http://eindbazen.net/feed/" />
+</outline>
+<outline text="extreme_coder_coding_reversing" title="extreme_coder_coding_reversing">
+<outline text="Coding | Reversing" title="Coding | Reversing" type="rss" xmlUrl="http://0xec.blogspot.com/feeds/posts/default" htmlUrl="http://0xec.blogspot.com/feeds/posts/default" />
+</outline>
+<outline text="fireeye_blog" title="fireeye_blog">
+<outline text="Threat Research" title="Threat Research" type="rss" xmlUrl="http://www.fireeye.com/blog/feed" htmlUrl="http://www.fireeye.com/blog/feed" />
+</outline>
+<outline text="fuzz" title="fuzz">
+<outline text="The Fuzzing Project" title="The Fuzzing Project" type="rss" xmlUrl="https://blog.fuzzing-project.org/feeds/index.rss2" htmlUrl="https://blog.fuzzing-project.org/feeds/index.rss2" />
+</outline>
+<outline text="hexale_security_reverse" title="hexale_security_reverse">
+<outline text="HEXALE (security &amp; reverse engineering)" title="HEXALE (security &amp; reverse engineering)" type="rss" xmlUrl="http://hexale.blogspot.com/feeds/posts/default" htmlUrl="http://hexale.blogspot.com/feeds/posts/default" />
+</outline>
+<outline text="j00ru" title="j00ru">
+<outline text="j00ru//vx tech blog" title="j00ru//vx tech blog" type="rss" xmlUrl="http://j00ru.vexillium.org/?feed=rss2" htmlUrl="http://j00ru.vexillium.org/?feed=rss2" />
+</outline>
+<outline text="kali" title="kali">
+<outline text="Kali Linux" title="Kali Linux" type="rss" xmlUrl="http://www.kali.org/feed/" htmlUrl="http://www.kali.org/feed/" />
+</outline>
+<outline text="linux_kernel_exploration" title="linux_kernel_exploration">
+<outline text="Linux Kernel Exploration" title="Linux Kernel Exploration" type="rss" xmlUrl="http://ilinuxkernel.com/?feed=rss2" htmlUrl="http://ilinuxkernel.com/?feed=rss2" />
+</outline>
+<outline text="mwr_lab" title="mwr_lab">
+<outline text="/var/log/messages" title="/var/log/messages" type="rss" xmlUrl="https://labs.mwrinfosecurity.com/blog/rss" htmlUrl="https://labs.mwrinfosecurity.com/blog/rss" />
+</outline>
+<outline text="project_zero" title="project_zero">
+<outline text="Project Zero" title="Project Zero" type="rss" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" />
+</outline>
+<outline text="rce_cafe_blog" title="rce_cafe_blog">
+<outline text="NTCore" title="NTCore" type="rss" xmlUrl="http://rcecafe.net/?feed=rss2" htmlUrl="http://rcecafe.net/?feed=rss2" />
+</outline>
+<outline text="reverse_engineering_mac_osx" title="reverse_engineering_mac_osx">
+<outline text="Reverse Engineering Mac OS X" title="Reverse Engineering Mac OS X" type="rss" xmlUrl="http://reverse.put.as/feed/" htmlUrl="http://reverse.put.as/feed/" />
+</outline>
+<outline text="reversingtools_blogspot" title="reversingtools_blogspot">
+<outline text="Reverse Engineering Blog" title="Reverse Engineering Blog" type="rss" xmlUrl="http://reversingtools.blogspot.com/feeds/posts/default" htmlUrl="http://reversingtools.blogspot.com/feeds/posts/default" />
+</outline>
+<outline text="security_software" title="security_software">
+<outline text="Secure Software Engineering" title="Secure Software Engineering" type="rss" xmlUrl="http://sseblog.ec-spride.de/feed/" htmlUrl="http://sseblog.ec-spride.de/feed/" />
+</outline>
+<outline text="seebug" title="seebug">
+<outline text="paper - Last paper" title="paper - Last paper" type="rss" xmlUrl="http://paper.seebug.org/rss/" htmlUrl="http://paper.seebug.org/rss/" />
+</outline>
+<outline text="shell_storm" title="shell_storm">
+<outline text="shell-storm" title="shell-storm" type="rss" xmlUrl="http://shell-storm.org/rss.xml" htmlUrl="http://shell-storm.org/rss.xml" />
+</outline>
+<outline text="安全客_咨讯" title="安全客_咨讯">
+<outline text="安全客 - 最新资讯" title="安全客 - 最新资讯" type="rss" xmlUrl="http://bobao.360.cn/rss?type=news" htmlUrl="http://bobao.360.cn/rss?type=news" />
+</outline>
+<outline text="安全客_新知识" title="安全客_新知识">
+<outline text="安全客 - 最新知识" title="安全客 - 最新知识" type="rss" xmlUrl="http://bobao.360.cn/rss?type=learning" htmlUrl="http://bobao.360.cn/rss?type=learning" />
+</outline>
+<outline text="安全客_漏洞" title="安全客_漏洞">
+<outline text="安全客 - 通用型漏洞" title="安全客 - 通用型漏洞" type="rss" xmlUrl="http://bobao.360.cn/rss?type=commonvul" htmlUrl="http://bobao.360.cn/rss?type=commonvul" />
+</outline>
+<outline text="bamboofox official blog" title="bamboofox official blog" type="rss" xmlUrl="https://bamboofox.github.io/feed.xml" htmlUrl="https://bamboofox.github.io/feed.xml" />
+<outline text="Linux中国开源社区" title="Linux中国开源社区" type="rss" xmlUrl="https://linux.cn/rss.xml" htmlUrl="https://linux.cn/rss.xml" />
+<outline text="FreeBuf互联网安全新媒体平台" title="FreeBuf互联网安全新媒体平台" type="rss" xmlUrl="http://www.freebuf.com/feed" htmlUrl="http://www.freebuf.com/feed" />
+<outline text="少数派" title="少数派" type="rss" xmlUrl="http://sspai.com/feed" htmlUrl="http://sspai.com/feed" />
+<outline text="o0xmuhe&#39;s blog" title="o0xmuhe&#39;s blog" type="rss" xmlUrl="https://o0xmuhe.github.io/atom.xml" htmlUrl="https://o0xmuhe.github.io/atom.xml" />
+<outline text="Swing&#39;Blog 有恨无人省" title="Swing&#39;Blog 有恨无人省" type="rss" xmlUrl="http://bestwing.me/atom.xml" htmlUrl="http://bestwing.me/atom.xml" />
+<outline text="Bendawang&#39;s site" title="Bendawang&#39;s site" type="rss" xmlUrl="http://bendawang.site/rss.xml" htmlUrl="http://bendawang.site/rss.xml" />
+</body>
+</opml>
