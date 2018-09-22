@@ -88,6 +88,8 @@
 <outline text="安全客_漏洞" title="安全客_漏洞">
 <outline text="安全客 - 通用型漏洞" title="安全客 - 通用型漏洞" type="rss" xmlUrl="http://bobao.360.cn/rss?type=commonvul" htmlUrl="http://bobao.360.cn/rss?type=commonvul" />
 </outline>
+<outline text="Tencent XuanwuLab Security Daily News Push" title="Tencent XuanwuLab Security Daily News Push" type="rss" xmlUrl="http://xuanwulab.github.io/cn/secnews/atom.xml" htmlUrl="http://xuanwulab.github.io/cn/secnews/atom.xml" />
+<outline text="0x9k" title="0x9k" type="rss" xmlUrl="https://0x9k.club/atom.xml" htmlUrl="https://0x9k.club/atom.xml" />
 <outline text="bamboofox official blog" title="bamboofox official blog" type="rss" xmlUrl="https://bamboofox.github.io/feed.xml" htmlUrl="https://bamboofox.github.io/feed.xml" />
 <outline text="Linux中国开源社区" title="Linux中国开源社区" type="rss" xmlUrl="https://linux.cn/rss.xml" htmlUrl="https://linux.cn/rss.xml" />
 <outline text="FreeBuf互联网安全新媒体平台" title="FreeBuf互联网安全新媒体平台" type="rss" xmlUrl="http://www.freebuf.com/feed" htmlUrl="http://www.freebuf.com/feed" />
